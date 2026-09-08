@@ -2,3 +2,5 @@
 build/
 .vscode/
 *.log
+*-deploy-key
+*-deploy-key.pub
